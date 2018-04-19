@@ -1,0 +1,5 @@
+python:
+https://www.python.org/downloads/
+
+geany:
+https://www.geany.org/Download/Releases
