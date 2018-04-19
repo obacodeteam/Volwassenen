@@ -1,4 +1,4 @@
-python:
+python: (jullie hebben python 2.7)
 https://www.python.org/downloads/
 
 geany:
