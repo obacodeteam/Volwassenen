@@ -7,7 +7,7 @@ steve = turtle.Turtle()
 steve.shape("turtle")
 
 square_size = 20
-size = 4
+size = 10
 spacing = 1.5
 
 while True:
