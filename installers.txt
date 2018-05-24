@@ -3,3 +3,12 @@ https://www.python.org/downloads/
 
 geany:
 https://www.geany.org/Download/Releases
+
+
+pip: (package manager)
+https://pip.pypa.io/en/stable/installing/
+
+pygame:
+https://www.pygame.org/download.shtml
+	of
+pip install pygame
