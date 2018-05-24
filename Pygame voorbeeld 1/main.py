@@ -7,6 +7,8 @@ screen = pygame.display.set_mode((400, 300))
 
 pygame.display.set_caption("Hello OBA!")
 
+pygame.key.set_repeat(10,10)
+
 oba = pygame.image.load("logo oba.jpg")
 
 oba_x = 0
