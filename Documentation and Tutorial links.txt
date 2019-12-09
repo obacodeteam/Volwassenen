@@ -1,0 +1,13 @@
+Documentations:
+	python documentation:
+	https://docs.python.org/2.7/
+
+	turtle documentation:
+	https://docs.python.org/2/library/turtle.html
+
+	pygame:
+	https://www.pygame.org/docs/
+
+Tutorials:
+	Pygame tutorials (Shmup!, Jumpy Platformer en Tile-based Game):
+	http://kidscancode.org/lessons/
